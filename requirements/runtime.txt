@@ -15,8 +15,8 @@ safetensors
 sentencepiece
 shortuuid
 tiktoken
-torch<=2.3.1,>=2.0.0
-torchvision<=0.18.1,>=0.15.0
+torch
+torchvision
 transformers
-triton>=2.1.0,<=2.3.1; sys_platform == "linux"
+triton
 uvicorn
